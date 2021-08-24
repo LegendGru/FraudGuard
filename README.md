@@ -35,7 +35,7 @@
 
 # İçerikler
 
-##  Guard {
+##  Guard 
    [✔] Rol Oluşturma Koruma
    [✔] Rol Silme Koruma
    [✔] Rol Güncelleme Koruma
@@ -49,5 +49,5 @@
    [✔] Ban Açma Koruma
    [✔] Bot Koruma
    [✔] Güvenli Fonksiyonu
-## };
+## 
 
