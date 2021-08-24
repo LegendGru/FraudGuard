@@ -18,6 +18,7 @@
   "Status": "Bot Durum",
   "guildID":"Sunucu ID", 
   "logChannelID":"Log ID", 
+
   "channelProtection":true,
   "roleProtection":true,
   "botProtection":true,
@@ -25,6 +26,7 @@
   "kickProtection":true,
   "serverProtection":true,
   "rightClickProtection":true, 
+
   "whitelist":["Rol ID","yada","Kullanıcı ID"], 
   "boosterRole":"Booster Rol ID", 
   "jailRole":"Jail Rol ID" 
