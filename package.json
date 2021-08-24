@@ -1,0 +1,14 @@
+{
+  "name": "fraudguard",
+  "version": "1.0.0",
+  "main": "fraud.js",
+  "author": "Fraud",
+  "license": "MIT",
+  "scripts": {
+    "start": "node fraud.js"
+  },
+  "description": "",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}

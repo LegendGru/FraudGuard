@@ -1,0 +1,18 @@
+{
+  "OwnerID":"Sahip ID", 
+  "Prefix":"Prefix", 
+  "Token":"Token",
+  "Status": "Bot Durum",
+  "guildID":"Sunucu ID", 
+  "logChannelID":"Log ID", 
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":["Rol ID","yada","Kullanıcı ID"], 
+  "boosterRole":"Booster ID", 
+  "jailRole":"Jail Rol ID" 
+}
