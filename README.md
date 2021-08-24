@@ -34,8 +34,6 @@
 
 
 # İçerikler
-
-##  Guard 
 ```
    [✔] Rol Oluşturma Koruma
    [✔] Rol Silme Koruma
